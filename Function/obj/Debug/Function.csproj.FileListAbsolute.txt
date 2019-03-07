@@ -1,0 +1,9 @@
+F:\CSharpProjects\Function\Function\bin\Debug\Function.exe.config
+F:\CSharpProjects\Function\Function\bin\Debug\Function.exe
+F:\CSharpProjects\Function\Function\bin\Debug\Function.pdb
+F:\CSharpProjects\Function\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\Function\Function\obj\Debug\Function.Form1.resources
+F:\CSharpProjects\Function\Function\obj\Debug\Function.Properties.Resources.resources
+F:\CSharpProjects\Function\Function\obj\Debug\Function.csproj.GenerateResource.Cache
+F:\CSharpProjects\Function\Function\obj\Debug\Function.exe
+F:\CSharpProjects\Function\Function\obj\Debug\Function.pdb
