@@ -9,6 +9,11 @@ using System.Windows.Forms;
 
 namespace Function
 {
+    public interface IViewModel
+    {
+        int Number { get; set; }
+    }
+
     class MyEventArgs : EventArgs
     {
         public double InitialValue { get; set; }
