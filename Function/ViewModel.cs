@@ -32,7 +32,7 @@ namespace Function
         }
     } 
 
-    class ViewModel : INotifyPropertyChanged
+    class ViewModel : INotifyPropertyChanged, IViewModel
     {
         public event EventHandler<MyEventArgs> MessageToFile;
 
@@ -61,7 +61,19 @@ namespace Function
                 }
             }
         }
-        
+        int number;
+        public int Number
+        {
+            get
+            {
+                return number;
+            }
+            set
+            {
+                number = value;
+            }
+        }
+
         public ViewModel() { }
         
         public ViewModel(MyFunction myFunction)
